@@ -1,3 +1,5 @@
+Hi I'm Hiba Anas Almansour
+
 # 💫 About Me:
 🚀 Front-End Developer who loves bridging the gap between design and functional code.<br><br>🎨 What I do: I transform complex ideas into slick, interactive, and fast web applications.<br><br>🛠️ Core Tech: Specialized in Vue.js & React.js, crafting high-performance user interfaces.<br><br>💡 Philosophy: If it doesn't look great and feel effortless, it's not finished yet!<br><br>🔭 Currently: Building creative web projects and exploring advanced state management & animations.
 
